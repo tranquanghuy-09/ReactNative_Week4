@@ -6,7 +6,9 @@ Practice week 4 of mobile programming subject
 
 # Demo App
 
-https://github.com/tranquanghuy-09/ReactNative_Week4/assets/107989088/9f17c766-4faf-4c69-abab-1cb89a66e9a2
+https://github.com/tranquanghuy-09/ReactNative_Week4/assets/107989088/54b962ce-c9f6-400b-9b22-6005e1c59a39
+
+## Secondary link demo app  =>  [Click here to view](https://github.com/tranquanghuy-09/ReactNative_Week4/issues/1#issue-1977818079)
 
 # Install
 
